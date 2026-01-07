@@ -1,0 +1,2 @@
+# Exploratory-Analysis-of-Netflix-Movies-and-TV-Shows-
+The analysis begins with data preparation, where the Netflix dataset is cleaned and organized to ensure accuracy and consistency. Key attributes such as content type (movies and TV shows), release year, genre, rating, duration, and country of availability are examined. This step ensures the dataset is reliable and exploration and visualization.
